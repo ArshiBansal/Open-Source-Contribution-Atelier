@@ -63,7 +63,7 @@ export function PricingPage() {
           </Link>
         )}
         <a
-          href="https://github.com/YOUR_ORG/YOUR_REPO"
+          href="https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center px-8 py-3 border-2 border-black dark:border-white text-black dark:text-white font-bold uppercase tracking-wider rounded-lg hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition"
